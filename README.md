@@ -2,14 +2,14 @@
 
 This project analyzes semiconductor wafer manufacturing data to understand yield trends, detect spatial defect patterns, and build predictive models using Python. It simulates wafer-level data and applies clustering and machine learning to uncover insights in semiconductor production.
 
-##Personal Note
+##  Personal Note
 This project was created as part of a course I’m taking on Coursera, and also to support my learning as a master’s student in the semiconductor field.
 
  I’ll be honest — I didn’t understand all of the code at first.
 I built this with the help of AI tools like ChatGPT, which guided me step by step.
  But after working through the process, I’ve gained a much better understanding of how it all works — and I’m proud of the progress I've made.
 
-##Contact
+##  Contact
 Made by Zeyad Mustafa
 Feel free to connect or contribute if you're also working in semiconductor data or machine learning!
 
