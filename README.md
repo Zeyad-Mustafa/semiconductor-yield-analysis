@@ -1,20 +1,20 @@
-# 🧠 Semiconductor Yield Analysis & Defect Detection
+#  Semiconductor Yield Analysis & Defect Detection
 
 This project analyzes semiconductor wafer manufacturing data to understand yield trends, detect spatial defect patterns, and build predictive models using Python. It simulates wafer-level data and applies clustering and machine learning to uncover insights in semiconductor production.
 
 ---
 
-## 📊 Features
+## Features
 
-- 📈 **Yield Distribution Analysis**: Understand overall production yield patterns.
-- 🧼 **Defect Type Analysis**: Analyze common defect types and their occurrence.
-- 🧭 **Defect Clustering**: Use KMeans to identify spatial clusters of defects on wafer maps.
-- 🤖 **Yield Prediction**: Train a Random Forest model to classify wafers as high-yield or low-yield.
-- 📦 **Modular Python Code**: Easy-to-extend scripts organized by purpose.
+-  **Yield Distribution Analysis**: Understand overall production yield patterns.
+-  **Defect Type Analysis**: Analyze common defect types and their occurrence.
+-  **Defect Clustering**: Use KMeans to identify spatial clusters of defects on wafer maps.
+-  **Yield Prediction**: Train a Random Forest model to classify wafers as high-yield or low-yield.
+-  **Modular Python Code**: Easy-to-extend scripts organized by purpose.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 semiconductor-yield-analysis/
 ├── data/ # Contains CSV wafer data
@@ -28,7 +28,7 @@ semiconductor-yield-analysis/
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Files to exclude from Git
 └── README.md # Project overview
-## 📥 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
