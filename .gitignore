@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional: if data is large or private)
+data/*.csv
+data/*.xlsx
+
+# Virtual environment
+venv/
+.env/
+
+# VSCode or other editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs or temp files
+*.log
+*.tmp
+
+# Jupyter hidden metadata
+*.ipynb~ 
+
+# Model files (optional)
+*.pkl
+*.joblib
+
+# Mac .Spotlight files, trash
+.Spotlight-V100
+.Trashes
